@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Timur+Kasimov;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+1+YEAR+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
+<p align="center">
+
 ## About Me
 
 I'm Timur Kasimov, a Software Engineer. </br>
@@ -34,6 +36,8 @@ I'm Timur Kasimov, a Software Engineer. </br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white)
+
+</p>
 
 
 ### Other
