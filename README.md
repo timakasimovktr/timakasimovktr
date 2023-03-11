@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Timur Kasimov, a Software Engineer. 
+I'm Timur Kasimov, a Software Engineer. </br>
 <img src="gradient.gif" width="29%" height="5px">
 
 ## My Tech Stack
