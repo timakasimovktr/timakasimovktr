@@ -3,8 +3,7 @@
 ## About Me
 
 I'm Timur Kasimov, a Software Engineer. 
-
-<img src="gradient.gif" width="30%" height="5px">
+<img src="gradient.gif" width="29%" height="5px">
 
 ## My Tech Stack
 
