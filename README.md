@@ -1,1 +1,1 @@
-![alt text](bg.gif)
+![background](background.gif)
