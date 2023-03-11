@@ -41,6 +41,6 @@ I'm Timur Kasimov, a Software Engineer.
 ![LESS](https://img.shields.io/badge/-LESS-1D365D?style=flat-square&logo=less&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
+##
 
-
-<img src="background.gif" width="100%" height="300px">
+<img src="background.gif" width="100%">
