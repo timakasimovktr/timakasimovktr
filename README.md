@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Timur+Kasimov;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+1+YEAR+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-
 ## About Me
 
 I'm Timur Kasimov, a Software Engineer. </br>
@@ -37,13 +35,6 @@ I'm Timur Kasimov, a Software Engineer. </br>
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white)
 
-</p>
-
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=timakasimovktr&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117" alt="Timur Kasimov's github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api?username=timakasimovktr&layout=compact&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0d1117" />
-</div>
-
 
 ### Other
 
@@ -58,5 +49,10 @@ I'm Timur Kasimov, a Software Engineer. </br>
 
 
 ##
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=timakasimovktr&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117" alt="Timur Kasimov's github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timakasimovktr&layout=compact&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0d1117" />
+</div>
 
 
