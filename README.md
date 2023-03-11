@@ -4,7 +4,7 @@
 
 I'm Timur Kasimov, a Software Engineer. 
 
-<img src="gradient.gif" width="55%" height="5px">
+<img src="gradient.gif" width="35%" height="5px">
 
 ## My Tech Stack
 
