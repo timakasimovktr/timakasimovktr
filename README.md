@@ -3,7 +3,7 @@
 ## About Me
 
 I'm Timur Kasimov, a Software Engineer, and I enjoy [your hobbies/interests].
-<img src="gradient.gif" width="100%" height="5px">
+<img src="gradient.gif" width="50%" height="5px">
 
 ## My Tech Stack
 
@@ -26,6 +26,6 @@ I'm Timur Kasimov, a Software Engineer, and I enjoy [your hobbies/interests].
 
 ### Tools
 
-<img src="gradient.gif" width="100%" height="5px">
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 
 
