@@ -6,11 +6,13 @@ I'm Timur Kasimov, a Software Engineer. </br>
 <img src="gradient.gif" width="27%" height="5px">
 
 ## My Tech Stack
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
 ### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Liquid](https://img.shields.io/badge/-Liquid-277A9F?style=flat-square&logo=liquid&logoColor=white)
 
 
 ### Frameworks and Libraries
