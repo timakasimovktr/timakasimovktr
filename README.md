@@ -13,7 +13,7 @@
 
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=timakasimovktr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=ffffff" alt="Timur Kasimov" /></div>
   
-### My Tech Stack
+<p width="100%" style="text-align: center;">My Tech Stack</p>
   
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
