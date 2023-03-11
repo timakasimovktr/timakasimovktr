@@ -8,7 +8,7 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timakasimovktr&layout=compact&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-<p align="center" style="width:100%;">
+<div style="text-align:center; width: 100%;">
   
 My Tech Stack
   
@@ -52,4 +52,5 @@ Other
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![LESS](https://img.shields.io/badge/-LESS-1D365D?style=flat-square&logo=less&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-</p>
+  
+</div>
