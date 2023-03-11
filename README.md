@@ -8,7 +8,9 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timakasimovktr&layout=compact&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-<p align="center">
+<p align="center" style="width:100%;">
+  
+My Tech Stack
   
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
