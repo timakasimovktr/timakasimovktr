@@ -1,1 +1,1 @@
-<img src="gradient.gif" width="100%" height="3px">
+<img src="gradient.gif" width="100%" height="5px">
