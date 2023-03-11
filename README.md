@@ -3,7 +3,7 @@
 ## About Me
 
 I'm Timur Kasimov, a Software Engineer, and I enjoy [your hobbies/interests].
-<img src="gradient.gif" width="60%" height="5px">
+<img src="gradient.gif" width="51%" height="5px">
 
 ## My Tech Stack
 
