@@ -50,4 +50,4 @@ I'm Timur Kasimov, a Software Engineer. </br>
 
 ##
 
-<img src="background.gif" width="100%">
+
