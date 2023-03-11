@@ -10,6 +10,8 @@
 </div>
 
 ##
+
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=timakasimovktr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=ffffff" alt="Timur Kasimov" /></div>
   
 ### My Tech Stack
   
