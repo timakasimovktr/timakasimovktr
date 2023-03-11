@@ -8,7 +8,7 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timakasimovktr&layout=compact&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-<div style="text-align:center; width: 100%;">
+<div style="text-align:center; width: 100%; justify-content: center;">
   
 My Tech Stack
   
