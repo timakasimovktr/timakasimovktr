@@ -28,7 +28,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-ffffff?style=flat-square&logo=vue.js&logoColor=green)
+![Vue.js](https://img.shields.io/badge/-Vue.js-FFFF00?style=flat-square&logo=vue.js&logoColor=green)
 
 ### Databases
 
