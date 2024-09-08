@@ -6,14 +6,16 @@
 
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=timakasimovktr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=ffffff" alt="Timur Kasimov" />
 
-##
-
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 </div>
+
+##
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{timakasimovktr}/count.svg" /></p> 
 <br></div>
+
+##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer"/>
