@@ -4,15 +4,14 @@
 
 ##
 
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=timakasimovktr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=ffffff" alt="Timur Kasimov" />
-
-##
-
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=timakasimovktr&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117" alt="Timur Kasimov's github stats" /> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timakasimovktr&layout=compact&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0d1117" />
 </div>
 
+##
+
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=timakasimovktr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=ffffff" alt="Timur Kasimov" />
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 </div>
