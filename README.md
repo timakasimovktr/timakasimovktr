@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Timur+Kasimov;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+3+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
-##
+###
 
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=timakasimovktr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=ffffff" alt="Timur Kasimov" />
 
